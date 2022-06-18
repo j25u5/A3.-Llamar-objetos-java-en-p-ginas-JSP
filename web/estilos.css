@@ -1,0 +1,29 @@
+body
+{
+    background-image: url(fondo.jpg) /*se le aplico una fondo de imagen*/
+
+}
+
+h2{
+    font-style:   normal;
+    text-align:   justify;
+    color: white;
+}
+
+
+#tabla{
+        align-self:  center;
+        border-color:   blue;
+        border-collapse:   collapse;
+        background-color:     antiquewhite;
+}
+th{
+    color: black;
+    background-color:  aqua;
+    border-collapse: collapse;
+    border-color: yellow;
+}
+tr{
+    color: black;
+    background-color:   antiquewhite;
+}
